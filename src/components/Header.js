@@ -3,7 +3,11 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <img className="" src="" alt="logo" />
+      <img
+        className="w-56"
+        src="https://raw.githubusercontent.com/dcs-soni/binge-it/main/src/assets/logo.png"
+        alt="logo"
+      />
     </div>
   );
 };
