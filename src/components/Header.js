@@ -4,8 +4,8 @@ const Header = () => {
   return (
     <div>
       <img
-        className="w-56"
-        src="https://raw.githubusercontent.com/dcs-soni/binge-it/main/src/assets/logo.png"
+        className="w-56 absolute"
+        src="https://github.com/dcs-soni/binge-it/blob/main/src/assets/logo.png?raw=true"
         alt="logo"
       />
     </div>
